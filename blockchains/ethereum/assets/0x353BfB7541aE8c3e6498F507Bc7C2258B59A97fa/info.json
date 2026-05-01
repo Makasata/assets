@@ -3,9 +3,7 @@
   "type": "ERC20",
   "symbol": "SNOOPY",
   "decimals": 9,
-  "website": "https://snoopymascot.space/",
   "description": "Snoopy-themed ERC20 token",
-  "explorer": "https://etherscan.io/token/0x353BfB7541aE8c3e6498F507Bc7C2258B59A97fa",
   "status": "active",
   "id": "0x353BfB7541aE8c3e6498F507Bc7C2258B59A97fa",
   "links": [
@@ -21,6 +19,5 @@
       "name": "telegram",
       "url": "https://t.me/snoopymascot"
     }
-  ],
-  "tags": ["memes"]
+  ]
 }
